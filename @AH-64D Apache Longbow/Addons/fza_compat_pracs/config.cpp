@@ -6,7 +6,7 @@ class CfgPatches
         author = "AH-64D Development Team";
         weapons[] = {};
         requiredVersion = 1.0;
-        requiredAddons[] = {"fza_ah64_controls", "PRACS_SLA_Core"};
+        requiredAddons[] = {"PRACS_SLA_Core", "fza_ah64_controls"};
         skipWhenMissingDependencies = 1;
     };
 };
